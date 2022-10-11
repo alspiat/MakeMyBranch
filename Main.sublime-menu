@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "Edit",
+        "id": "edit",
+        "children":
+        [
+            {
+                "caption": "Project: Generate branch name",
+                "id": "make_my_branch",
+                "command": "make_my_branch"
+            }
+        ]
+    }
+]

@@ -1,0 +1,6 @@
+[
+	{ 
+		"keys": ["super+ctrl+b"],
+		"command": "make_my_branch"
+	}
+]
